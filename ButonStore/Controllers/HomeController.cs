@@ -2,7 +2,7 @@
 
 namespace ButonStore.Controllers
 {
-    [Route("[controller]")]
+    [Route("ButonStore")]
     public class HomeController : Controller
     {
         public IActionResult Index()

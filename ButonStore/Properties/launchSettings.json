@@ -16,12 +16,12 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "launchUrl": "Home"
+      "launchUrl": "ButonStore"
     },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "Home",
+      "launchUrl": "ButonStore",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
