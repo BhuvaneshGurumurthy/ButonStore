@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButonStore", "ButonStore\ButonStore.csproj", "{BE85B9B1-C1C4-421A-AF0F-69A3B0BCD6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE85B9B1-C1C4-421A-AF0F-69A3B0BCD6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE85B9B1-C1C4-421A-AF0F-69A3B0BCD6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE85B9B1-C1C4-421A-AF0F-69A3B0BCD6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE85B9B1-C1C4-421A-AF0F-69A3B0BCD6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5329C9-A72C-426E-9CE8-8842D64DF427}
+	EndGlobalSection
+EndGlobal
