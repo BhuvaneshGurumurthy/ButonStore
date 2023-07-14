@@ -7,6 +7,7 @@ namespace ButonStore.Controllers
     {
         public IActionResult Index()
         {
+            //Scaffold-DbContext "Host=localhost;Database=ButonStore;Username=postgres;Password=Yatra" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir DbEntityClasses -force
             return new JsonResult("Welcome to ButonStore API");
         }
     }
